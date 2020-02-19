@@ -23,7 +23,7 @@ To install this application you need to follow these steps:
 
 # Instant Use
 
-Alternatively to have instant access to the application without installing it, simply visit the [Medieval Avatars](https://radiant-plateau-35150.herokuapp.com/) site. We have used [Heroku](https://www.heroku.com) to host our site.
+Alternatively, for instant access to the application without installing it, simply visit the [Medieval Avatars](https://radiant-plateau-35150.herokuapp.com/) site. We have used [Heroku](https://www.heroku.com) to host our site.
 
 
 # Application
@@ -118,6 +118,11 @@ Above is the code shows the different routes that we've used to create avatars a
 * Materialize
 * Carousel
 * Medieval History
+
+
+## Personal Commentary (Casey)
+
+This particular project was something I was actually quite passionate about. I am thankful to my team-members for acknowledging this and giving me a great deal of creative control in the overall design, purpose and concept behind the App. This holds a lot of potential for added features that i plan to create in the future. This can even be turned into an actual game on its own.
 
 
 ## Authors
